@@ -1,6 +1,6 @@
 name: Github Action No.2
 on:
-  push:
+  Push:
     branches: ["main"]
      workflow_dispatch:
 permission: 
